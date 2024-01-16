@@ -8,7 +8,7 @@ $card_animali = [
         "osso",
         20,
         "cane",
-        
+
     ),
     new ProdottiAnimali(
         "cibo in scatola",
